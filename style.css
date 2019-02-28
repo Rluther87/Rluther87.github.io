@@ -1,0 +1,27 @@
+.starter-template {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    padding-top: 250px;
+}
+
+
+.landing-page {
+    background-image: url('IMG/Landing%20Page.jpeg');
+    background-size: cover;
+    height: 500px;  
+}
+
+.landing-page > h1{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+.btn btn-outline-light {  
+}
+
+#mc_embed_signup {
+    text-align: center;
+}
